@@ -284,6 +284,33 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "allstargaurav",
+      "name": "Gaurav",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24932097?v=4",
+      "profile": "https://github.com/allstargaurav",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "LauraOneasca",
+      "name": "LauraOneasca",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31212753?v=4",
+      "profile": "https://github.com/LauraOneasca",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "MichaelDeBoey",
+      "name": "Michaël De Boey",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6643991?v=4",
+      "profile": "https://michaeldeboey.be",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "skipCi": true
